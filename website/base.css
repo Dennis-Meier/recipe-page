@@ -22,19 +22,15 @@
 }
 /* #######===============================================================####### */
 
-body{
-    background: var(--Stone-100);
-}
 .container{
-    max-width: 660px;
-    padding: 3rem;
+    min-width: 300px;
+    max-width: 1440px;
+    padding: 2rem;
+    margin: 0 auto;
     background: var(--White);
-    margin: 5rem auto 5rem ;
-    border-radius: 2rem;
 }
 img {
-    max-width: 100%;
-    height: auto;
+    width: 100%;
     border-radius: 1rem;
 }
 
